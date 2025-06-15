@@ -1,3 +1,5 @@
+Conversion of exe/dll to shellcode.
+
 ![1.png](images/1.png)
 
 # Don't Detect Tools - Detect Techniques
